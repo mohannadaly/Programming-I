@@ -1,2 +1,2 @@
-# Programming-I
-This repository contains all my submissions for the Programming I course at FCAI.
+# Programming-I Assignment 2
+This repository contains my submission for Programming I - Assignment 2 at FCAI.
